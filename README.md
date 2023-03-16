@@ -7,9 +7,9 @@ it is necessary to estimate the potential value that existing customers will pro
 
 ## Variables:
 
-#### Total Features : 11 - Total Row : 19.945
+#### Total Features: 11 - Total Row: 19.945
 
-#### CSV File Size : 2.60 MB
+#### CSV File Size: 2.60 MB
 
 * **master_id :** Unique Customer Number
 * **order_channel :** Which channel of the shopping platform is used (Android, IOS, Desktop, Mobile)
